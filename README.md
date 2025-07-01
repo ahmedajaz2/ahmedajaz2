@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajaz Ahmed
-- 👀 I’m interested in Identity Security, Technical PM, Data Science
+- 👀 I’m interested in Identity Security, Security Engineering and Data Science
 - ✨ I'hv good experience in IAM - (Entra ID, AD Services, Forgerock, Okta, CyberArk, Beyondtrust), Power Platform, Azure Fabric, Python, PowerShell, KQL, SQL
 - 🌱 I’m currently learning Go, RUST
 - 💞️ I’m looking to collaborate on Identity Security and Infrastructure Architecture
